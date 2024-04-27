@@ -1,0 +1,29 @@
+h2 { 
+    color: rgb(0, 0, 0);
+    font-family: "arial";
+    text-align: "center";
+
+}
+h3 {
+    color: azure;
+    
+}
+
+
+p {
+    font-family: "arial";
+    color: azure;
+
+}
+li {
+    color: azure;
+}
+
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/013/762/206/small/pastel-abstract-background-abstract-design-for-posters-banners-pamphlets-flyers-business-cards-brochures-web-etc-vector.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
